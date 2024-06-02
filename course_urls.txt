@@ -1,0 +1,8 @@
+# Python Course
+https://www.udemy.com/api-2.0/discovery-units/all_courses/?page_size=16&subs_coll_id=&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&label_id=7380&source_page=topic_page&locale=en_US&currency=inr&skip_price=true&sos=pl&fl=lbl
+
+# Data Science Course
+https://www.udemy.com/api-2.0/discovery-units/all_courses/?page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&subcategory_id=558&source_page=subcategory_page&locale=en_US&currency=inr&navigation_locale=en_US&skip_price=true&sos=ps&fl=scat
+
+# Web Development Course
+https://www.udemy.com/api-2.0/discovery-units/all_courses/?page_size=16&subcategory=&instructional_level=&lang=&price=&duration=&closed_captions=&subs_filter_type=&subcategory_id=8&source_page=subcategory_page&locale=en_US&currency=inr&navigation_locale=en_US&skip_price=true&sos=ps&fl=scat
